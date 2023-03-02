@@ -1,5 +1,9 @@
-![jESC Logo]()
-<img src="https://github.com/jESC-Solutions/.github/blob/main/logo-color.png"  width="600" height="300">
+<img src="https://github.com/jESC-Solutions/.github/blob/main/profile/jESC.png"  width="1000" height="500">
+
+
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
