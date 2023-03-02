@@ -1,4 +1,4 @@
-<img src="https://github.com/jESC-Solutions/.github/blob/main/profile/jESC.png"  width="1000" height="500">
+<img src="https://github.com/jESC-Solutions/.github/blob/main/profile/logo-no-background.png"  width="30%" height="30%">
 
 
 
