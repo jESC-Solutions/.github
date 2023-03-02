@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/jESC-Solutions/.github/blob/main/profile/logo-no-background.png"  width="30%" height="30%">
   <h1>
-  Welcome
+  Welcome to our team project
   </h1>
 </div>
 
