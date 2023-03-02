@@ -7,6 +7,11 @@
 
 
 <!--
+Sufficient documentation in the top level README to explain to a stranger who you are, what this project was about, and how all of the material in the repo pertains to it.
+This README should be:
+Attractively formatted
+Include links to relevant files in the repo
+Include links to each of your own Github accounts AND LinkedIn accounts
 
 **Here are some ideas to get you started:**
 
