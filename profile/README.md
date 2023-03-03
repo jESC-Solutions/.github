@@ -9,7 +9,7 @@
 
 <a href="https://www.linkedin.com/in/redalona/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="John | LinkedIn" width="100px"/></a>
 <a href="https://github.com/redalona"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="John | GitHub" width="100px"/></a>
-John Alfred Alona
+John Alfred Canlas Alona
 </br>
 </br>
 <a href="https://www.linkedin.com/in/emilioceja/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Emilio | LinkedIn" width="100px"/></a>
