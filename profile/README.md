@@ -30,7 +30,7 @@ Connie Uribe Chavez
 
 **The problem:** Our goal in our group project was to create a service for a small grocery store encountering technical issues. Some of the issues they were experiencing were not having a backup system for their workstations, they were having issues with duplicating an inventory Excel sheet, and the employees were bringing in their own personal devices. 
 
-**Our Solution:** Our team decided to build a Linux server for backups and to host a shared drive, we incoorporated Google Workspaces, TeamViewer to facilitate with the helpdesk tickets, and to facilitates some task we automated some of the technical task such as backups and user account creation and deletion. 
+**Our Solution:** Our team decided to build a Linux server for backups and to host a shared drive, we incorporated Google Workspaces, TeamViewer to facilitate with the helpdesk tickets, and to facilitate some tasks we automated some of the technical tasks such as backups and user account creation and deletion.
 
 #### Take a look at some of our prep work and documentation 
 <a href="https://github.com/jESC-Solutions/jESC-Prep-Work-Documentation"><img align="left" src="https://img.shields.io/badge/Repo-Prep Docs-white" alt="Prep Documentation | GitHub Repo" width="148px"/></a> 
